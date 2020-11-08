@@ -1,0 +1,34 @@
+.spinner-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.scrollbar {
+  overflow: scroll;
+  height: 100%;
+}
+.ant-checkbox-inner {
+  border-color: #683392 !important;
+}
+/* layout sider border */
+.ant-layout-sider-children {
+  border-right: 1px solid #fafafa;
+}
+.noteList .ant-tooltip-content {
+  width: 400px;
+}
+.ant-pagination-item-active {
+  border-color: #683392 !important;
+}
+.ant-pagination-item-active a {
+  color: #683392 !important;
+}
+.cp-text {
+  color: rgba(0, 0, 0, 0.7);
+  text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+}
+.black_shadow{
+  box-shadow: 1px 1px 20px 2px black;
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "key": "1",
+    "type": "male",
+    "position": [23.8221, 90.416],
+    "content": "My first popup",
+    "name": "Peggy Chambers",
+    "age": 23
+  },
+  {
+    "key": "2",
+    "type": "female",
+    "position": [23.8321, 90.436],
+    "content": "My second popup",
+    "name": "Lyons",
+    "age": 24
+  },
+  {
+    "key": "3",
+    "type": "herma",
+    "position": [23.8421, 90.446],
+    "content": "My third popup",
+    "name": "Debra Phillips",
+    "age": 25
+  },
+  {
+    "key": "4",
+    "type": "male",
+    "position": [23.8521, 90.456],
+    "content": "My first popup",
+    "name": "Kathy Guzman",
+    "age": 26
+  },
+  {
+    "key": "5",
+    "type": "female",
+    "position": [23.8621, 90.466],
+    "content": "My second popup",
+    "name": "Bryant Drake",
+    "age": 26
+  },
+  {
+    "key": "6",
+    "type": "herma",
+    "position": [23.8721, 90.476],
+    "content": "My third popup",
+    "name": "Arthur Brown",
+    "age": 26
+  }
+]

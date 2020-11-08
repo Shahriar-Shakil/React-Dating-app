@@ -1,0 +1,83 @@
+[
+  {
+    "country": "China",
+    "Language": "CHINESE"
+  },
+  {
+    "country": "Spain",
+    "Language": "SPANISH"
+  },
+  {
+    "country": "United Kingdom",
+    "Language": "ENGLISH"
+  },
+  {
+    "country": "United States",
+    "Language": "ENGLISH"
+  },
+  {
+    "country": "India",
+    "Language": "HINDI"
+  },
+  {
+    "country": "Saudi Arabia",
+    "Language": "ARABIC"
+  },
+  {
+    "country": "United Arab Emirates",
+    "Language": "ARABIC"
+  },
+  {
+    "country": "Portugal",
+    "Language": "PORTUGUESE"
+  },
+  {
+    "country": "Bangladesh",
+    "Language": "BENGALI"
+  },
+  {
+    "country": "Russia",
+    "Language": "RUSSIAN"
+  },
+  {
+    "country": "Ukraine",
+    "Language": "RUSSIAN"
+  },
+  {
+    "country": "Kazakhstan",
+    "Language": "RUSSIAN"
+  },
+  {
+    "country": "Japan",
+    "Language": "JAPANESE"
+  },
+  {
+    "country": "Indonesia",
+    "Language": "JAVANESE"
+  },
+  {
+    "country": "Germany",
+    "Language": "GERMAN"
+  },
+  {
+    "country": "North Korea",
+    "Language": "KOREAN"
+  },
+  {
+    "country": "South Korea",
+    "Language": "KOREAN"
+  },
+  {
+    "country": "France",
+    "Language": "FRENCH"
+  },
+  {
+    "country": "Turkey",
+    "Language": "TURKISH"
+  },
+
+  {
+    "country": "Vietnam",
+    "Language": "VIETNAMESE"
+  }
+]
